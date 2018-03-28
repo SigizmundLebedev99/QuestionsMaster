@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+  <question text ="Что такое класс?">
+    <answer iscorrect="true">Шаблон описания объектов</answer>
+    <answer iscorrect="false">Набор открытых членов</answer>
+    <answer iscorrect="false">Какая-то бубуйня</answer>
+  </question>
+  <question text ="Что такое объект">
+    <answer iscorrect="true">Экземпляр класса</answer>
+    <answer iscorrect="false">Набор открытых членов</answer>
+    <answer iscorrect="false">Какая-то бубуйня</answer>
+  </question>
+  <question text ="Что такое интерфейс?">
+    <answer iscorrect="true">Набор абстрактных членов</answer>
+    <answer iscorrect="false">Шаблон описания объектов</answer>
+    <answer iscorrect="false">Какая-то бубуйня</answer>
+  </question>
+  <question text ="Сколько будет 1d/3d">
+    <answer iscorrect="false">ответ - 4</answer>
+    <answer iscorrect="false">ответ - 13</answer>
+    <answer iscorrect="true">ответ - 1/3</answer>
+    <answer iscorrect="false">Ответ - 3/1</answer>
+  </question>
+  <question text ="int - это...">
+    <answer iscorrect="true">Целочисленный тип</answer>
+    <answer iscorrect="false">Интеграл</answer>
+    <answer iscorrect="false">Какая-то бубуйня</answer>
+  </question>
+  <question text ="char - это...">
+    <answer iscorrect="true">Символьный тип</answer>
+    <answer iscorrect="false">Вид магической деятельности</answer>
+    <answer iscorrect="false">Логический тип</answer>
+    <answer iscorrect="false">Вещественный тип</answer>
+  </question>
+  <question text ="float - это...">
+    <answer iscorrect="true">Вещественный тип</answer>
+    <answer iscorrect="false">Такой цикл</answer>
+    <answer iscorrect="false">Военно морской float</answer>
+  </question>
+  <question text ="Какая типизация в c#">
+    <answer iscorrect="true">Явная статическая</answer>
+    <answer iscorrect="false">Неявная динамическая</answer>    
+  </question>
+  <question text ="Math.Pow(3,2)">
+    <answer iscorrect="false">Ответ - 33</answer>
+    <answer iscorrect="false">Ответ - 5</answer>
+    <answer iscorrect="true">Ответ - 9</answer>
+    <answer iscorrect="false">Ответ - 222</answer>
+  </question>
+  <question text ="Что вернет инструкция someList.SingleOrDefault(member => member.Index > 10)">
+    <answer iscorrect="true">Элемент списка со свойством Index > 10 или null</answer>
+    <answer iscorrect="false">Элемент списка со свойством Index > 10 или исключение</answer>
+    <answer iscorrect="false">Ошибка компилляции</answer>
+  </question>
+  <question text ="Чем отличаются события от делегатов?">
+    <answer iscorrect="true">Тем же, чем отличаются свойства от полей</answer>
+    <answer iscorrect="false">Названием</answer>    
+  </question>
+  <question text ="Реализует ли класс Stack интерфейс IEnumerable">
+    <answer iscorrect="true">Да</answer>
+    <answer iscorrect="false">Нет</answer>
+    <answer iscorrect="false">Реализует обобщенную версию</answer>
+    <answer iscorrect="false">Не надо мне тут странных вопросов</answer>
+    <answer iscorrect="false">Кто вообще сейчас использует необобщенные коллекции?</answer>
+  </question>
+</questions>
